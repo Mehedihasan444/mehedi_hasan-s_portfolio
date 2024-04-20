@@ -14,13 +14,13 @@ export default function Home() {
       </section>
 
       {/* About */}
-<section id="about" className="snap-center">
-<About />
-</section>
+      <section id="about" className="snap-center">
+        <About />
+      </section>
       {/* Experience */}
-<section id="experience" className="">
-  <Experience/>
-</section>
+      <section id="experience" className="snap-center">
+        <Experience />
+      </section>
       {/* Skills */}
 
       {/* Projects */}
